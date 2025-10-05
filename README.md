@@ -12,5 +12,5 @@
 https://github.com/SONGGUOPENG2/TradingBack/releases
 # Excel历史K线数据：
 投喂Excel工作表后，本软件自动计算交易数据；
-相关Excel工作表在本目录已有，若想得到任意Excel数据，请下载SONGGUOPENG.BinanceKline（币安分析仪）；
+相关Excel工作表已附加到下载包，若想得到任意Excel数据，请下载SONGGUOPENG.BinanceKline（币安分析仪）；
 https://github.com/SONGGUOPENG2?tab=repositories
