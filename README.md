@@ -9,4 +9,8 @@
 6.不同参数的资金曲线图可集中展示对比。
 7.永久免费。
 # 软件下载地址：
-https://drive.google.com/file/d/1MBs3kiSAHtiDr-_ho_wKsa5-ZTlHjjT1/view?usp=drivesdk
+https://github.com/SONGGUOPENG2/TradingBack/releases
+# Excel历史K线数据：
+投喂Excel工作表后，本软件自动计算交易数据；
+相关Excel工作表在本目录已有，若想得到任意Excel数据，请下载SONGGUOPENG.BinanceKline（币安分析仪）；
+https://github.com/SONGGUOPENG2?tab=repositories
