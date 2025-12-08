@@ -1,7 +1,9 @@
 # 币安策略仪：回测
 本软件可以针对加密货币的历史价格进行策略测试，参数设置的变化影响收益的走势。
-<img width="3200" height="2000" alt="2025-01-01-23-23-56" src="https://github.com/user-attachments/assets/e5252d07-5078-4800-bb5f-3027a921a4f9" />
+<img width="3200" height="2000" alt="IMG_20251208_230513_1765206357064" src="https://github.com/user-attachments/assets/d2728559-48dd-4495-8b3f-9cdada23fcce" />
+
 <img width="1920" height="1080" alt="IMG_20251208_223733_1765205275701" src="https://github.com/user-attachments/assets/2320eaf9-9727-45d2-8bec-d41014e0acf0" />
+
 <img width="1920" height="1080" alt="IMG_20251208_221938_1765204025055_1765205553737" src="https://github.com/user-attachments/assets/4f761449-4ba0-4a36-8853-b3680e011bec" />
 
 # 软件优点：
